@@ -24,7 +24,7 @@ And more!
 
 
 ![gif_astar](https://user-images.githubusercontent.com/29706261/165939341-6237fe3d-38da-4dbc-b5ee-c36049cdc127.gif)
-<h6>Obstacle avoidance using A*</h6>
+<h6>Obstacle avoidance using A* (The follower uses A*)</h6>
 
 
 
